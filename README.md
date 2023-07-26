@@ -4,4 +4,5 @@ steps :
   1- Enter virtual name
   2- Enter project name
   3- enter app name 
+  env this virtual environment that result from run script
   
